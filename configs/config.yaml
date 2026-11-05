@@ -1,0 +1,4 @@
+data:
+  train: data/train.csv
+  test: data/test.csv
+  sample: data/sample_submission.parquet
